@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="hello">Hello World, shop helper!</string>
+    <string name="app_name">Shop Helper</string>
+    <string name="scan">Scan!</string>
+    <string name="head_1">Scan barcode:</string>
+<string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="logo_desc">Logo</string>
+<string name="buy">Buy!</string>
+</resources>
